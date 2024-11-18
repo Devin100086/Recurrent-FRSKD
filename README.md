@@ -1,5 +1,5 @@
 # Recurrent-FRSKD
-Pytorch implementation and producing of the paper: ["Refine Myself by Teaching Myself :
+Pytorch implementation and recurrenting of the paper: ["Refine Myself by Teaching Myself :
 Feature Refinement via Self-Knowledge Distillation"](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Refine_Myself_by_Teaching_Myself_Feature_Refinement_via_Self-Knowledge_Distillation_CVPR_2021_paper.pdf).
 
 <div align="center">
