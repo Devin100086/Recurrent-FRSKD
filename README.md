@@ -100,4 +100,4 @@ Our code is mainly modified on the [FRSKD](https://github.com/MingiJi/FRSKD).
 
 ## :smirk: Tips
 
-If you want my big assignment report, please contact me at wucunqi2003@126.com.
+If you want my big assignment **report** or the **Pre-trained weights**, please contact me at wucunqi2003@126.com.
